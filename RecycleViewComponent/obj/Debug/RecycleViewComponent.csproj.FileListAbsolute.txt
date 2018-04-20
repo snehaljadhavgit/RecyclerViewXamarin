@@ -1,0 +1,5 @@
+/Users/sjadhav/Projects/RecycleViewComponent/RecycleViewComponent/bin/Debug/RecycleViewComponent.dll
+/Users/sjadhav/Projects/RecycleViewComponent/RecycleViewComponent/bin/Debug/RecycleViewComponent.pdb
+/Users/sjadhav/Projects/RecycleViewComponent/RecycleViewComponent/obj/Debug/RecycleViewComponent.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/RecycleViewComponent/RecycleViewComponent/obj/Debug/RecycleViewComponent.dll
+/Users/sjadhav/Projects/RecycleViewComponent/RecycleViewComponent/obj/Debug/RecycleViewComponent.pdb

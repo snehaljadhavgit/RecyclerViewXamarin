@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1BF51467-5524-4FD6-9E8F-6A6B4CCFC264}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Listeners/IOClickItemViewInterface.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="18" Column="47" />
+      <File FileName="Droid/Adapters/DemoAdapter.cs" Line="33" Column="58" />
+      <File FileName="Droid/StaticVariableClass.cs" Line="10" Column="2" />
+      <File FileName="Droid/Listeners/IOClickItemViewInterface.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sjadhav/Projects/RecycleViewComponent/Droid/Adapters/DemoAdapter.cs" relfile="Droid/Adapters/DemoAdapter.cs" line="46" column="1" />
+      <Breakpoint file="/Users/sjadhav/Projects/RecycleViewComponent/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="63" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecycleViewComponent.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RecycleViewComponent.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C23ADB16-6E9A-46F9-919F-4E889EA4CAC0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RecycleViewComponent.iOS>
+</Properties>

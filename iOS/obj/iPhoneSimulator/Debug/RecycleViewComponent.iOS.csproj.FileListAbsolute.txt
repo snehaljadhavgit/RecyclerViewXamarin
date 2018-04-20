@@ -1,0 +1,14 @@
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/bin/iPhoneSimulator/Debug/RecycleViewComponent.iOS.exe
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/bin/iPhoneSimulator/Debug/RecycleViewComponent.iOS.pdb
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/bin/iPhoneSimulator/Debug/RecycleViewComponent.dll
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/bin/iPhoneSimulator/Debug/RecycleViewComponent.pdb
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/RecycleViewComponent.iOS.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/RecycleViewComponent.iOS.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/RecycleViewComponent.iOS.exe
+/Users/sjadhav/Projects/RecycleViewComponent/iOS/obj/iPhoneSimulator/Debug/RecycleViewComponent.iOS.pdb
